@@ -4,7 +4,7 @@ Effective Solutions for Your Business is a responsive landing page created for p
 
 🔗 Links
 
-Live Demo: (add deployment link here)
+Live Demo: https://effective-solutions-for-your-busine.vercel.app/
 
 GitHub Repository: https://github.com/AnnaAnishchenko/EffectiveSolutionsForYourBusiness
 
@@ -87,8 +87,6 @@ Building clean and maintainable frontend projects
 Anna Anishchenko
 
 GitHub: https://github.com/AnnaAnishchenko
-
-LinkedIn: (add your LinkedIn link here)
 
 ⭐ Feedback
 
